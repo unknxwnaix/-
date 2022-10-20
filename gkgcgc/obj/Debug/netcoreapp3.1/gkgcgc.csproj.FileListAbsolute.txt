@@ -1,0 +1,14 @@
+/Users/aix/Projects/gkgcgc/gkgcgc/bin/Debug/netcoreapp3.1/gkgcgc
+/Users/aix/Projects/gkgcgc/gkgcgc/bin/Debug/netcoreapp3.1/gkgcgc.deps.json
+/Users/aix/Projects/gkgcgc/gkgcgc/bin/Debug/netcoreapp3.1/gkgcgc.runtimeconfig.json
+/Users/aix/Projects/gkgcgc/gkgcgc/bin/Debug/netcoreapp3.1/gkgcgc.runtimeconfig.dev.json
+/Users/aix/Projects/gkgcgc/gkgcgc/bin/Debug/netcoreapp3.1/gkgcgc.dll
+/Users/aix/Projects/gkgcgc/gkgcgc/bin/Debug/netcoreapp3.1/gkgcgc.pdb
+/Users/aix/Projects/gkgcgc/gkgcgc/obj/Debug/netcoreapp3.1/gkgcgc.csproj.AssemblyReference.cache
+/Users/aix/Projects/gkgcgc/gkgcgc/obj/Debug/netcoreapp3.1/gkgcgc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aix/Projects/gkgcgc/gkgcgc/obj/Debug/netcoreapp3.1/gkgcgc.AssemblyInfoInputs.cache
+/Users/aix/Projects/gkgcgc/gkgcgc/obj/Debug/netcoreapp3.1/gkgcgc.AssemblyInfo.cs
+/Users/aix/Projects/gkgcgc/gkgcgc/obj/Debug/netcoreapp3.1/gkgcgc.csproj.CoreCompileInputs.cache
+/Users/aix/Projects/gkgcgc/gkgcgc/obj/Debug/netcoreapp3.1/gkgcgc.dll
+/Users/aix/Projects/gkgcgc/gkgcgc/obj/Debug/netcoreapp3.1/gkgcgc.pdb
+/Users/aix/Projects/gkgcgc/gkgcgc/obj/Debug/netcoreapp3.1/gkgcgc.genruntimeconfig.cache

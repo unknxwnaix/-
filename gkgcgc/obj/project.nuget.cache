@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EGZeU2Hq7EGAZQUkRv+Fw4Cw0XaBJf4YuTDfbXvNr74C6SMqGMemuzUXp1aTMFRtitQhiNmfwgjhL2x70l9kAg==",
+  "success": true,
+  "projectFilePath": "/Users/aix/Projects/gkgcgc/gkgcgc/gkgcgc.csproj",
+  "expectedPackageFiles": [
+    "/Users/aix/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/aix/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/aix/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
